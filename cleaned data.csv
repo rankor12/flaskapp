@@ -1,0 +1,488 @@
+age,sex,education,occupation,height,weight,diabetes,hypertension,asthma,tb,cancer,covid_severity,longcovid_four,lc_fatigue_four,lc_cough_four,lc_headache_four,lc_breathing_four,lc_taste_four,lc_smell_four,lc_brainfog_four,lc_chestpain_four,lc_fever_four
+29,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,167.0,67.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+35,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,165.0,80.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Female,College graduate,Unemployed / Student / Homemaker ,162.0,53.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Professional / Technical / Administrative / Managerial ,153.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+22,Female,10th standard or below,Unemployed / Student / Homemaker ,142.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Unemployed / Student / Homemaker ,163.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+25,Female,College graduate,Unemployed / Student / Homemaker ,153.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+22,Female,College graduate,Unemployed / Student / Homemaker ,148.0,45.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+20,Female,College graduate,Unemployed / Student / Homemaker ,153.0,56.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Unemployed / Student / Homemaker ,162.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+49,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,168.0,72.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Male,College graduate,Unemployed / Student / Homemaker ,163.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+20,Female,College graduate,Unemployed / Student / Homemaker ,152.0,45.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,Yes,No,No,No,No,No
+21,Female,College graduate,Unemployed / Student / Homemaker ,155.0,45.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Unemployed / Student / Homemaker ,163.0,56.0,No,No,Yes,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,Yes,Yes,No,No,No
+21,Female,College graduate,Unemployed / Student / Homemaker ,154.0,45.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Professional / Technical / Administrative / Managerial ,151.0,62.0,No,No,Yes,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,No,No,No,No,No
+23,Female,College graduate,Professional / Technical / Administrative / Managerial ,152.0,76.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+19,Female,College graduate,Professional / Technical / Administrative / Managerial ,163.0,54.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Female,College graduate,Professional / Technical / Administrative / Managerial ,152.0,52.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Male,College graduate,Professional / Technical / Administrative / Managerial ,178.0,74.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+20,Female,College graduate,Professional / Technical / Administrative / Managerial ,150.0,52.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+33,Male,College graduate,Professional / Technical / Administrative / Managerial ,166.0,72.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+20,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,153.0,66.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+45,Female,College graduate,Unemployed / Student / Homemaker ,168.0,72.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+28,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,162.0,78.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,148.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+42,Male,Post graduation & above ,Other,180.0,84.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+42,Male,College graduate,Professional / Technical / Administrative / Managerial ,178.0,73.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+34,Male,College graduate,Professional / Technical / Administrative / Managerial ,175.0,85.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,No,No,No,Yes,No
+27,Female,College graduate,Professional / Technical / Administrative / Managerial ,146.0,45.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,No,No,No,No,No
+21,Female,College graduate,Unemployed / Student / Homemaker ,155.0,49.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+27,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,165.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,150.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+52,Male,College graduate,Professional / Technical / Administrative / Managerial ,160.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+27,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,170.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+20,Female,College graduate,Unemployed / Student / Homemaker ,160.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Female,College graduate,Unemployed / Student / Homemaker ,155.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+42,Male,10th standard or below,Other,170.0,71.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+19,Female,College graduate,Unemployed / Student / Homemaker ,155.0,67.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,Yes,No,No,No,No,No,No
+23,Female,College graduate,Unemployed / Student / Homemaker ,160.0,64.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Unemployed / Student / Homemaker ,155.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Female,College graduate,Unemployed / Student / Homemaker ,150.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+58,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,150.0,53.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+28,Female,College graduate,Unemployed / Student / Homemaker ,150.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Male,College graduate,Unemployed / Student / Homemaker ,160.0,69.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Female,College graduate,Professional / Technical / Administrative / Managerial ,150.0,58.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Female,College graduate,Unemployed / Student / Homemaker ,155.0,64.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Female,College graduate,Unemployed / Student / Homemaker ,150.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+36,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,65.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,Yes,No,No,No,No,No
+52,Male,10th standard or below,Unemployed / Student / Homemaker ,160.0,51.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+25,Male,College graduate,Professional / Technical / Administrative / Managerial ,162.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+57,Male,College graduate,Professional / Technical / Administrative / Managerial ,167.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,Yes,No,No,No,No,No
+28,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,168.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+35,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,156.0,78.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+31,Male,College graduate,Professional / Technical / Administrative / Managerial ,176.0,82.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,Yes,Yes,No,No,No
+47,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,150.0,62.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+32,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,165.0,62.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+28,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,160.0,56.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,No,Yes,No,No,No
+61,Male,College graduate,Professional / Technical / Administrative / Managerial ,165.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+52,Male,College graduate,Unemployed / Student / Homemaker ,160.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Male,College graduate,Professional / Technical / Administrative / Managerial ,178.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,Yes,No,No,No,No
+20,Male,College graduate,Professional / Technical / Administrative / Managerial ,178.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Male,College graduate,Professional / Technical / Administrative / Managerial ,175.0,90.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,Yes,No,No,No,Yes,No
+30,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,160.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+40,Female,College graduate,Professional / Technical / Administrative / Managerial ,160.0,68.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+26,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,151.0,41.0,No,No,Yes,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Male,Higher Secondary (11 to 12th standard),Professional / Technical / Administrative / Managerial ,178.0,80.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,150.0,59.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+49,Male,College graduate,Unemployed / Student / Homemaker ,165.0,59.0,No,No,No,Yes - Previous TB,No,Severe - Received oxygen or was told you require oxygen,1,Yes,Yes,No,Yes,No,No,No,No,No
+21,Female,College graduate,Professional / Technical / Administrative / Managerial ,150.0,58.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,Yes,No,No,No,No,No
+32,Male,College graduate,Other,170.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+35,Male,College graduate,Professional / Technical / Administrative / Managerial ,165.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+60,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,150.0,61.0,No,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+56,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,155.0,58.0,No,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+49,Male,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,165.0,61.0,No,No,Yes,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+68,Male,Post graduation & above ,Retired ,168.0,75.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Unemployed / Student / Homemaker ,159.0,52.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+34,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,178.0,72.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+39,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,166.0,64.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+40,Male,College graduate,Professional / Technical / Administrative / Managerial ,160.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+42,Male,10th standard or below,Other,156.0,57.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+19,Female,College graduate,Unemployed / Student / Homemaker ,150.0,58.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+57,Male,College graduate,Retired ,165.0,59.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,155.0,69.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,160.0,67.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+55,Female,10th standard or below,Unemployed / Student / Homemaker ,150.0,64.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+50,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,150.0,56.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Female,College graduate,Unemployed / Student / Homemaker ,150.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+25,Female,College graduate,Unemployed / Student / Homemaker ,155.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Female,College graduate,Unemployed / Student / Homemaker ,160.0,67.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,College graduate,Professional / Technical / Administrative / Managerial ,175.0,63.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+22,Male,College graduate,Professional / Technical / Administrative / Managerial ,175.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+53,Male,Higher Secondary (11 to 12th standard),Other,170.0,68.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,No,No,No,No,No,No,No,No,No
+52,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,165.0,53.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+39,Female,College graduate,Other,150.0,61.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+42,Male,College graduate,Other,170.0,69.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+33,Male,College graduate,Other,170.0,68.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,Yes,No,No,No,Yes,No
+65,Male,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,170.0,58.0,No,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+35,Female,10th standard or below,Unemployed / Student / Homemaker ,150.0,65.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+51,Male,College graduate,Unemployed / Student / Homemaker ,170.0,64.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+30,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,150.0,63.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+39,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,150.0,49.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+61,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,145.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+29,Female,College graduate,Skilled and Unskilled manual ,150.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+39,Male,College graduate,Skilled and Unskilled manual ,160.0,59.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Male,College graduate,Unemployed / Student / Homemaker ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,175.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Female,College graduate,Professional / Technical / Administrative / Managerial ,160.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Male,College graduate,Skilled and Unskilled manual ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+66,Male,10th standard or below,Unemployed / Student / Homemaker ,170.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+71,Female,10th standard or below,Unemployed / Student / Homemaker ,165.0,52.0,Yes,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,2,Yes,No,No,Yes,No,No,No,No,No
+26,Male,College graduate,Other,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Professional / Technical / Administrative / Managerial ,150.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Male,College graduate,Other,160.0,56.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+43,Female,College graduate,Unemployed / Student / Homemaker ,155.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,2,No,No,No,No,No,No,No,No,No
+26,Male,College graduate,Unemployed / Student / Homemaker ,170.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,175.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+52,Male,10th standard or below,Other,165.0,70.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+53,Female,10th standard or below,Unemployed / Student / Homemaker ,147.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+68,Female,10th standard or below,Unemployed / Student / Homemaker ,150.0,60.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+23,Male,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,160.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+29,Female,College graduate,Unemployed / Student / Homemaker ,154.0,54.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+39,Male,College graduate,Professional / Technical / Administrative / Managerial ,159.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Unemployed / Student / Homemaker ,158.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Female,College graduate,Professional / Technical / Administrative / Managerial ,159.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+55,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,148.0,45.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Male,College graduate,Unemployed / Student / Homemaker ,169.0,72.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+30,Male,10th standard or below,Professional / Technical / Administrative / Managerial ,184.0,86.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+27,Male,College graduate,Professional / Technical / Administrative / Managerial ,163.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+28,Female,10th standard or below,Unemployed / Student / Homemaker ,148.0,40.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+58,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,158.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,Yes,No,No,No,No,No
+57,Male,College graduate,Other,160.0,60.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,2,Yes,No,No,No,No,No,No,No,No
+28,Male,10th standard or below,Unemployed / Student / Homemaker ,160.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+42,Male,College graduate,Other,172.0,72.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+46,Female,College graduate,Unemployed / Student / Homemaker ,150.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+48,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,145.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Male,College graduate,Professional / Technical / Administrative / Managerial ,165.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,165.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+37,Female,10th standard or below,Unemployed / Student / Homemaker ,153.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+55,Male,College graduate,Unemployed / Student / Homemaker ,165.0,60.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,No,No,No,No,No
+46,Male,College graduate,Skilled and Unskilled manual ,161.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+33,Male,College graduate,Skilled and Unskilled manual ,162.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+25,Male,College graduate,Skilled and Unskilled manual ,172.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+35,Female,Post graduation & above ,Unemployed / Student / Homemaker ,154.0,56.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+35,Male,Post graduation & above ,Unemployed / Student / Homemaker ,163.0,87.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+50,Male,10th standard or below,Professional / Technical / Administrative / Managerial ,162.0,62.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+27,Male,Higher Secondary (11 to 12th standard),Professional / Technical / Administrative / Managerial ,159.0,56.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+54,Female,10th standard or below,Unemployed / Student / Homemaker ,149.0,48.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+60,Female,10th standard or below,Unemployed / Student / Homemaker ,162.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,170.0,90.0,No,No,Yes,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+30,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,165.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Male,College graduate,Other,175.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+41,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,170.0,55.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,No,No,No,No,Yes
+60,Female,10th standard or below,Unemployed / Student / Homemaker ,160.0,59.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+28,Male,College graduate,Other,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+57,Male,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,165.0,50.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+39,Female,College graduate,Unemployed / Student / Homemaker ,160.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+43,Male,10th standard or below,Unemployed / Student / Homemaker ,165.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+42,Male,College graduate,Skilled and Unskilled manual ,170.0,68.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+82,Female,10th standard or below,Unemployed / Student / Homemaker ,160.0,55.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,2,Yes,No,No,Yes,No,No,No,No,No
+26,Male,Higher Secondary (11 to 12th standard),Other,170.0,55.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+49,Female,10th standard or below,Unemployed / Student / Homemaker ,152.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+27,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,154.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+41,Male,Higher Secondary (11 to 12th standard),Other,178.0,82.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+59,Male,10th standard or below,Unemployed / Student / Homemaker ,170.0,69.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+50,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,155.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+52,Male,10th standard or below,Skilled and Unskilled manual ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+45,Female,10th standard or below,Other,160.0,55.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+65,Male,10th standard or below,Unemployed / Student / Homemaker ,165.0,53.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+75,Female,10th standard or below,Unemployed / Student / Homemaker ,160.0,62.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+54,Male,College graduate,Other,165.0,75.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+66,Female,10th standard or below,Unemployed / Student / Homemaker ,160.0,55.0,Yes,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+76,Female,10th standard or below,Unemployed / Student / Homemaker ,155.0,60.0,Yes,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+45,Female,10th standard or below,Unemployed / Student / Homemaker ,160.0,65.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,No,Yes,No,No,No,No,No,No,No
+55,Female,10th standard or below,Unemployed / Student / Homemaker ,155.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+51,Male,10th standard or below,Skilled and Unskilled manual ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Male,College graduate,Unemployed / Student / Homemaker ,175.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Male,College graduate,Unemployed / Student / Homemaker ,170.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+46,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,74.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+46,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,150.0,60.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+54,Male,Higher Secondary (11 to 12th standard),Other,160.0,55.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+50,Male,College graduate,Other,160.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,College graduate,Unemployed / Student / Homemaker ,165.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+53,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Male,College graduate,Other,175.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+48,Male,Higher Secondary (11 to 12th standard),Other,170.0,63.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,10th standard or below,Unemployed / Student / Homemaker ,154.0,51.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+35,Male,10th standard or below,Unemployed / Student / Homemaker ,152.0,90.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+30,Female,College graduate,Professional / Technical / Administrative / Managerial ,165.0,75.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Female,10th standard or below,Unemployed / Student / Homemaker ,151.0,41.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Male,College graduate,Other,179.0,95.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,No,No,No,Yes,No
+26,Male,College graduate,Professional / Technical / Administrative / Managerial ,156.0,74.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+45,Male,10th standard or below,Skilled and Unskilled manual ,165.0,70.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+49,Male,College graduate,Professional / Technical / Administrative / Managerial ,172.0,85.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+31,Female,College graduate,Professional / Technical / Administrative / Managerial ,154.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+60,Male,10th standard or below,Unemployed / Student / Homemaker ,165.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+56,Male,Illiterate / No formal schooling ,Other,154.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Male,Higher Secondary (11 to 12th standard),Professional / Technical / Administrative / Managerial ,165.0,63.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+56,Female,10th standard or below,Unemployed / Student / Homemaker ,165.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+27,Male,College graduate,Other,170.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Male,College graduate,Other,170.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+19,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,160.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+75,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,160.0,64.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+42,Female,10th standard or below,Unemployed / Student / Homemaker ,160.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,175.0,75.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Female,College graduate,Professional / Technical / Administrative / Managerial ,160.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+20,Male,College graduate,Unemployed / Student / Homemaker ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+47,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,160.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+33,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Male,College graduate,Other,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+72,Male,10th standard or below,Unemployed / Student / Homemaker ,160.0,56.0,Yes,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,2,Yes,Yes,No,No,No,No,Yes,No,No
+51,Female,10th standard or below,Unemployed / Student / Homemaker ,160.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+28,Female,College graduate,Professional / Technical / Administrative / Managerial ,160.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+68,Male,Higher Secondary (11 to 12th standard),Retired ,170.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+52,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,160.0,55.0,Yes,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,2,Yes,No,No,No,No,No,No,No,No
+48,Female,10th standard or below,Unemployed / Student / Homemaker ,158.0,55.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+35,Female,College graduate,Unemployed / Student / Homemaker ,165.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+25,Female,College graduate,Professional / Technical / Administrative / Managerial ,160.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+28,Male,College graduate,Professional / Technical / Administrative / Managerial ,165.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Male,College graduate,Professional / Technical / Administrative / Managerial ,160.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+28,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Male,Higher Secondary (11 to 12th standard),Other,176.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+60,Male,Illiterate / No formal schooling ,Other,151.0,52.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+56,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,160.0,74.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+23,Male,10th standard or below,Skilled and Unskilled manual ,175.0,87.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Female,College graduate,Unemployed / Student / Homemaker ,160.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Male,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,165.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+52,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,170.0,65.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+34,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+25,Male,College graduate,Other,170.0,58.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+27,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+40,Female,10th standard or below,Unemployed / Student / Homemaker ,155.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+39,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,159.0,62.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+70,Female,10th standard or below,Unemployed / Student / Homemaker ,149.0,70.0,Yes,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Female,College graduate,Unemployed / Student / Homemaker ,159.0,69.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+59,Male,10th standard or below,Other,159.0,50.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+70,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,163.0,60.0,Yes,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+25,Male,College graduate,Skilled and Unskilled manual ,165.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Male,College graduate,Professional / Technical / Administrative / Managerial ,175.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+41,Male,College graduate,Other,170.0,60.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+64,Female,10th standard or below,Unemployed / Student / Homemaker ,160.0,65.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Female,College graduate,Unemployed / Student / Homemaker ,155.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,160.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+60,Male,10th standard or below,Unemployed / Student / Homemaker ,165.0,55.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+28,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+32,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,175.0,62.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+45,Male,10th standard or below,Skilled and Unskilled manual ,165.0,56.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+61,Female,10th standard or below,Unemployed / Student / Homemaker ,152.0,87.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+46,Female,10th standard or below,Unemployed / Student / Homemaker ,157.0,56.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+66,Male,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,152.0,58.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,College graduate,Professional / Technical / Administrative / Managerial ,178.0,76.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+32,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,154.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+25,Male,College graduate,Professional / Technical / Administrative / Managerial ,154.0,80.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+28,Male,Higher Secondary (11 to 12th standard),Other,178.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Male,College graduate,Other,165.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+40,Male,College graduate,Professional / Technical / Administrative / Managerial ,165.0,79.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+18,Female,College graduate,Unemployed / Student / Homemaker ,155.0,75.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,165.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+44,Male,College graduate,Other,175.0,58.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+41,Male,Post graduation & above ,Other,170.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,154.0,54.0,No,No,No,Yes - Previous TB,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Female,10th standard or below,Unemployed / Student / Homemaker ,156.0,53.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+50,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,156.0,50.0,Yes,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+45,Male,10th standard or below,Other,162.0,65.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+52,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,70.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+53,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,156.0,78.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+26,Female,College graduate,Professional / Technical / Administrative / Managerial ,151.0,53.0,No,No,Yes,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+54,Male,College graduate,Professional / Technical / Administrative / Managerial ,165.0,79.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+30,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,150.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+48,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,150.0,52.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+33,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,78.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+34,Female,10th standard or below,Unemployed / Student / Homemaker ,158.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+57,Male,10th standard or below,Unemployed / Student / Homemaker ,166.0,57.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+52,Male,College graduate,Professional / Technical / Administrative / Managerial ,180.0,90.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+52,Male,10th standard or below,Unemployed / Student / Homemaker ,165.0,56.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+67,Male,10th standard or below,Retired ,170.0,70.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,Yes,No,No,Yes,No
+45,Male,10th standard or below,Unemployed / Student / Homemaker ,160.0,57.0,No,No,No,No,No,Critical - Received invasive ventilation,1,No,No,No,No,No,No,No,Yes,No
+48,Male,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,170.0,58.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,No,No,No,Yes,No
+84,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,155.0,56.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+68,Male,10th standard or below,Unemployed / Student / Homemaker ,165.0,70.0,No,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,2,No,No,No,Yes,No,No,No,No,No
+55,Male,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,156.0,55.0,Yes,Yes,No,No,No,Critical - Received invasive ventilation,2,Yes,No,No,No,No,No,No,No,No
+27,Female,College graduate,Professional / Technical / Administrative / Managerial ,163.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,Yes,No,No
+34,Female,College graduate,Other,150.0,60.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,No,No,No,No,No
+44,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,152.0,62.0,No,No,Yes,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Male,College graduate,Unemployed / Student / Homemaker ,164.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+30,Male,10th standard or below,Skilled and Unskilled manual ,154.0,45.0,No,No,No,Yes - Previous TB,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+35,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,165.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+65,Female,10th standard or below,Unemployed / Student / Homemaker ,154.0,60.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+30,Male,Post graduation & above ,Unemployed / Student / Homemaker ,168.0,78.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+30,Male,10th standard or below,Skilled and Unskilled manual ,162.0,45.0,No,No,No,Yes - Previous TB,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+56,Male,10th standard or below,Skilled and Unskilled manual ,164.0,55.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+40,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,165.0,40.0,Yes,No,No,No,No,Critical - Received invasive ventilation,2,Yes,Yes,No,Yes,No,No,No,No,No
+71,Female,10th standard or below,Unemployed / Student / Homemaker ,166.0,75.0,No,Yes,No,No,No,Critical - Received invasive ventilation,1,Yes,No,No,No,No,No,No,No,No
+50,Male,College graduate,Other,168.0,103.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,No,No,No,Yes,No,No,No,Yes,No
+60,Male,10th standard or below,Other,175.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,College graduate,Professional / Technical / Administrative / Managerial ,164.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+68,Male,Higher Secondary (11 to 12th standard),Retired ,165.0,60.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+41,Male,College graduate,Professional / Technical / Administrative / Managerial ,162.0,72.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+28,Male,College graduate,Professional / Technical / Administrative / Managerial ,159.0,51.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+46,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,163.0,74.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+32,Male,College graduate,Professional / Technical / Administrative / Managerial ,169.0,75.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+38,Male,10th standard or below,Skilled and Unskilled manual ,163.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+42,Female,10th standard or below,Unemployed / Student / Homemaker ,154.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Female,10th standard or below,Unemployed / Student / Homemaker ,165.0,70.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+46,Male,10th standard or below,Skilled and Unskilled manual ,164.0,48.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,Yes,No,No,No,Yes,No
+20,Male,College graduate,Unemployed / Student / Homemaker ,171.0,59.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Male,College graduate,Unemployed / Student / Homemaker ,168.0,75.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Female,College graduate,Professional / Technical / Administrative / Managerial ,162.0,59.0,No,No,Yes,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,Yes,No,No,No,No,No
+39,Male,Higher Secondary (11 to 12th standard),Professional / Technical / Administrative / Managerial ,162.0,60.0,No,No,Yes,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,Yes,No,No,No,No,No
+30,Female,College graduate,Professional / Technical / Administrative / Managerial ,159.0,53.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+54,Female,10th standard or below,Unemployed / Student / Homemaker ,148.0,42.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Male,10th standard or below,Unemployed / Student / Homemaker ,154.0,47.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Female,College graduate,Professional / Technical / Administrative / Managerial ,165.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+61,Male,10th standard or below,Unemployed / Student / Homemaker ,167.0,56.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+34,Male,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,158.0,52.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+18,Male,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,158.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+40,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,166.0,72.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+71,Male,10th standard or below,Unemployed / Student / Homemaker ,182.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Male,College graduate,Unemployed / Student / Homemaker ,175.0,85.0,No,No,Yes,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,College graduate,Professional / Technical / Administrative / Managerial ,159.0,80.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,Yes,No,No,No,No,No
+34,Male,10th standard or below,Other,170.0,80.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Male,College graduate,Professional / Technical / Administrative / Managerial ,168.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+67,Male,10th standard or below,Unemployed / Student / Homemaker ,180.0,80.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,150.0,45.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+58,Male,10th standard or below,Other,165.0,45.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+25,Male,College graduate,Professional / Technical / Administrative / Managerial ,162.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+30,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,159.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+72,Male,10th standard or below,Other,165.0,62.0,Yes,Yes,Yes,No,No,Severe - Received oxygen or was told you require oxygen,1,No,No,No,No,No,No,Yes,No,No
+36,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,168.0,78.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+35,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,164.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Female,College graduate,Unemployed / Student / Homemaker ,151.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+55,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,154.0,60.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,Yes,No,No,No,No,No
+55,Female,College graduate,Professional / Technical / Administrative / Managerial ,164.0,49.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+50,Male,College graduate,Unemployed / Student / Homemaker ,157.0,42.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+55,Male,10th standard or below,Skilled and Unskilled manual ,165.0,48.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+18,Male,College graduate,Unemployed / Student / Homemaker ,165.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Male,College graduate,Professional / Technical / Administrative / Managerial ,169.0,74.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+56,Male,College graduate,Professional / Technical / Administrative / Managerial ,168.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,College graduate,Professional / Technical / Administrative / Managerial ,162.0,69.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+56,Male,College graduate,Professional / Technical / Administrative / Managerial ,169.0,64.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+42,Male,10th standard or below,Skilled and Unskilled manual ,158.0,57.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+82,Male,Illiterate / No formal schooling ,Other,157.0,60.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+52,Female,10th standard or below,Unemployed / Student / Homemaker ,158.0,45.0,Yes,Yes,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Female,College graduate,Unemployed / Student / Homemaker ,157.0,43.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+75,Male,Illiterate / No formal schooling ,Retired ,154.0,80.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+84,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,155.0,60.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+58,Male,Illiterate / No formal schooling ,Skilled and Unskilled manual ,157.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+41,Male,Higher Secondary (11 to 12th standard),Other,167.0,63.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+50,Female,10th standard or below,Unemployed / Student / Homemaker ,150.0,55.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+59,Male,Post graduation & above ,Other,162.0,61.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+26,Female,College graduate,Unemployed / Student / Homemaker ,155.0,65.0,No,No,Yes,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+27,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,163.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+41,Male,College graduate,Skilled and Unskilled manual ,172.0,69.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,10th standard or below,Skilled and Unskilled manual ,167.0,54.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Female,College graduate,Unemployed / Student / Homemaker ,162.0,72.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+60,Male,College graduate,Skilled and Unskilled manual ,167.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Female,College graduate,Professional / Technical / Administrative / Managerial ,152.0,52.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Female,College graduate,Skilled and Unskilled manual ,153.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,2,Yes,Yes,No,No,No,No,No,No,No
+40,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,72.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+51,Female,10th standard or below,Unemployed / Student / Homemaker ,151.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+55,Female,10th standard or below,Unemployed / Student / Homemaker ,167.0,65.0,No,Yes,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+58,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,152.0,60.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+55,Male,Illiterate / No formal schooling ,Skilled and Unskilled manual ,165.0,50.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Unemployed / Student / Homemaker ,165.0,52.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Female,10th standard or below,Unemployed / Student / Homemaker ,162.0,53.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+39,Female,10th standard or below,Unemployed / Student / Homemaker ,148.0,52.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+45,Male,10th standard or below,Skilled and Unskilled manual ,170.0,52.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+40,Male,10th standard or below,Unemployed / Student / Homemaker ,166.0,74.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,No,Yes,No,No,No,No,No,No,No
+88,Female,10th standard or below,Unemployed / Student / Homemaker ,160.0,62.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+40,Male,Higher Secondary (11 to 12th standard),Other,167.0,71.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Female,College graduate,Professional / Technical / Administrative / Managerial ,160.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+36,Male,College graduate,Unemployed / Student / Homemaker ,164.0,59.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,10th standard or below,Skilled and Unskilled manual ,168.0,75.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+72,Male,College graduate,Retired ,165.0,72.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+56,Male,College graduate,Professional / Technical / Administrative / Managerial ,167.0,85.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+36,Male,College graduate,Other,156.0,80.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+38,Female,College graduate,Professional / Technical / Administrative / Managerial ,160.0,58.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+36,Male,10th standard or below,Other,154.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+53,Female,College graduate,Unemployed / Student / Homemaker ,163.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Male,Post graduation & above ,Unemployed / Student / Homemaker ,180.0,64.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+30,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,180.0,85.0,No,No,Yes,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+52,Male,Illiterate / No formal schooling ,Skilled and Unskilled manual ,162.0,53.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+39,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,165.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+37,Female,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,148.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+41,Male,Higher Secondary (11 to 12th standard),Other,161.0,56.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+18,Male,10th standard or below,Skilled and Unskilled manual ,163.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+45,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,163.0,51.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+28,Male,10th standard or below,Skilled and Unskilled manual ,154.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+27,Female,College graduate,Unemployed / Student / Homemaker ,157.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+35,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,174.0,78.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+23,Male,College graduate,Unemployed / Student / Homemaker ,167.0,75.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+28,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,162.0,57.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+28,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,74.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Unemployed / Student / Homemaker ,162.0,50.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,Yes,No,No,No,No,No,No,No
+22,Male,Higher Secondary (11 to 12th standard),Professional / Technical / Administrative / Managerial ,164.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+28,Male,College graduate,Professional / Technical / Administrative / Managerial ,172.0,75.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+26,Female,Post graduation & above ,Unemployed / Student / Homemaker ,149.0,63.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+42,Male,10th standard or below,Skilled and Unskilled manual ,154.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+52,Female,10th standard or below,Unemployed / Student / Homemaker ,154.0,45.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,166.0,71.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+57,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,182.0,80.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+59,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,150.0,58.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+27,Male,Higher Secondary (11 to 12th standard),Other,168.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+35,Female,10th standard or below,Unemployed / Student / Homemaker ,148.0,30.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Male,10th standard or below,Skilled and Unskilled manual ,180.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+36,Male,10th standard or below,Skilled and Unskilled manual ,157.0,44.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+28,Male,College graduate,Professional / Technical / Administrative / Managerial ,175.0,76.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+43,Male,College graduate,Other,155.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Male,Higher Secondary (11 to 12th standard),Other,168.0,54.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,Yes,No,No,No,No,No,No,No
+52,Female,10th standard or below,Unemployed / Student / Homemaker ,149.0,56.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+50,Male,Post graduation & above ,Other,165.0,55.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+40,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,165.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+60,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,165.0,55.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Male,College graduate,Unemployed / Student / Homemaker ,172.0,58.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+37,Male,College graduate,Professional / Technical / Administrative / Managerial ,165.0,75.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+46,Male,College graduate,Professional / Technical / Administrative / Managerial ,164.0,68.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Female,10th standard or below,Unemployed / Student / Homemaker ,156.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+55,Male,College graduate,Professional / Technical / Administrative / Managerial ,165.0,71.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+66,Male,Higher Secondary (11 to 12th standard),Retired ,165.0,80.0,No,Yes,No,Yes - Active TB,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+62,Male,College graduate,Retired ,165.0,96.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+56,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,154.0,50.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Male,Higher Secondary (11 to 12th standard),Professional / Technical / Administrative / Managerial ,172.0,78.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Male,College graduate,Other,170.0,74.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+27,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,165.0,76.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+49,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,172.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+42,Male,College graduate,Professional / Technical / Administrative / Managerial ,170.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+60,Male,Post graduation & above ,Professional / Technical / Administrative / Managerial ,163.0,40.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,Yes,No,Yes,No,No,No,No,No
+29,Male,College graduate,Professional / Technical / Administrative / Managerial ,180.0,70.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+28,Male,10th standard or below,Skilled and Unskilled manual ,168.0,58.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+57,Male,Illiterate / No formal schooling ,Other,177.0,72.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+38,Male,College graduate,Professional / Technical / Administrative / Managerial ,162.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,Yes,No,No,No,No,No
+64,Male,10th standard or below,Skilled and Unskilled manual ,172.0,60.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,No,No,No,Yes,No,No,No,Yes,No
+46,Male,10th standard or below,Other,154.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,Yes,No,No,No,No,No,No
+78,Male,10th standard or below,Skilled and Unskilled manual ,163.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+30,Female,10th standard or below,Unemployed / Student / Homemaker ,152.0,25.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Female,College graduate,Unemployed / Student / Homemaker ,163.0,59.0,No,No,Yes,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Male,College graduate,Professional / Technical / Administrative / Managerial ,162.0,77.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Male,10th standard or below,Other,170.0,62.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Male,College graduate,Professional / Technical / Administrative / Managerial ,182.0,75.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,148.0,53.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+45,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,160.0,56.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+70,Male,10th standard or below,Other,165.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,Yes,No,No,No,No,No,No,No,No
+42,Male,Higher Secondary (11 to 12th standard),Other,163.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+29,Male,College graduate,Professional / Technical / Administrative / Managerial ,160.0,80.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+38,Male,Higher Secondary (11 to 12th standard),Other,173.0,60.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,No,No,No,Yes,No,No,No,Yes,No
+38,Male,10th standard or below,Other,150.0,70.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+48,Female,10th standard or below,Unemployed / Student / Homemaker ,150.0,55.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,2,Yes,Yes,No,Yes,Yes,No,No,No,No
+36,Male,College graduate,Professional / Technical / Administrative / Managerial ,172.0,72.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+36,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,160.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Female,College graduate,Unemployed / Student / Homemaker ,149.0,50.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+42,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,170.0,55.0,Yes,No,No,No,No,Severe - Received oxygen or was told you require oxygen,1,Yes,No,No,No,No,No,No,No,No
+42,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,166.0,81.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+50,Female,10th standard or below,Unemployed / Student / Homemaker ,155.0,55.0,No,Yes,No,No,Yes,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+42,Female,College graduate,Professional / Technical / Administrative / Managerial ,148.0,60.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+65,Male,College graduate,Retired ,162.0,70.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+60,Male,College graduate,Retired ,162.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+31,Male,Higher Secondary (11 to 12th standard),Other,164.0,68.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+60,Female,College graduate,Unemployed / Student / Homemaker ,154.0,60.0,Yes,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+37,Female,10th standard or below,Unemployed / Student / Homemaker ,158.0,61.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Female,10th standard or below,Unemployed / Student / Homemaker ,158.0,55.0,No,No,No,No,No,Severe - Received oxygen or was told you require oxygen,0,Yes,No,No,No,No,No,No,No,No
+37,Male,Higher Secondary (11 to 12th standard),Skilled and Unskilled manual ,168.0,67.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+37,Male,Higher Secondary (11 to 12th standard),Unemployed / Student / Homemaker ,165.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+32,Female,10th standard or below,Unemployed / Student / Homemaker ,158.0,57.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+40,Male,College graduate,Professional / Technical / Administrative / Managerial ,165.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,1,No,No,No,Yes,Yes,Yes,No,Yes,No
+53,Female,College graduate,Unemployed / Student / Homemaker ,162.0,65.0,No,No,No,No,Yes,Mild/Moderate - Did not receive oxygen,1,No,No,No,No,No,No,No,No,No
+28,Male,College graduate,Professional / Technical / Administrative / Managerial ,165.0,67.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+43,Male,College graduate,Other,160.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+48,Male,10th standard or below,Other,154.0,65.0,Yes,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+65,Female,Illiterate / No formal schooling ,Unemployed / Student / Homemaker ,152.0,50.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+19,Male,College graduate,Unemployed / Student / Homemaker ,165.0,85.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+21,Female,College graduate,Unemployed / Student / Homemaker ,164.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+24,Male,College graduate,Unemployed / Student / Homemaker ,165.0,54.0,No,No,Yes,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+63,Female,10th standard or below,Unemployed / Student / Homemaker ,160.0,68.0,No,Yes,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+37,Female,10th standard or below,Unemployed / Student / Homemaker ,175.0,65.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+51,Female,Post graduation & above ,Unemployed / Student / Homemaker ,140.0,67.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+27,Male,College graduate,Other,165.0,78.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+25,Female,College graduate,Unemployed / Student / Homemaker ,163.0,62.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+22,Female,Post graduation & above ,Unemployed / Student / Homemaker ,159.0,56.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+23,Male,College graduate,Other,165.0,60.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
+30,Female,Post graduation & above ,Professional / Technical / Administrative / Managerial ,155.0,85.0,No,No,No,No,No,Mild/Moderate - Did not receive oxygen,0,Yes,No,No,No,No,No,No,No,No
